@@ -1,0 +1,2 @@
+I am using a different HW4 output for both the regular and bonus parts of this assignment and it yields a better output than the one I showed you on Wednesday. I also tested on the small file provided by Grace. It seems that my code works correctly but my HW4 output is not correct. However, the problem is separate from this current assignment. Please take care of the grading stuff. Thanks, bro.
+   
